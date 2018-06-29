@@ -1,6 +1,6 @@
 pragma solidity ^0.4.23;
 
-contract ptc{
+contract Ptc{
     /* Public variables of the token */
     uint256 public totalSupply;
     string public name;
